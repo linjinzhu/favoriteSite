@@ -7,6 +7,7 @@
 - [Objective-C Data Types](http://www.tutorialspoint.com/objective_c/objective_c_data_types.htm)
 - [Double](https://en.wikipedia.org/wiki/Double-precision_floating-point_format)
 - [iOSInterviewQuestions](https://github.com/ChenYilong/iOSInterviewQuestions)
+- [招聘一个靠谱的 iOS](http://blog.sunnyxx.com/2015/07/04/ios-interview/)
 
 # Sqlite
 
