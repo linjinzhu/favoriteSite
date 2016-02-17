@@ -13,3 +13,6 @@
 
 - [sqlite语法](https://www.sqlite.org/lang_datefunc.html)
 
+# 牛人博客
+
+- [标哥的技术博客](http://www.henishuo.com)
